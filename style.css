@@ -1,0 +1,13 @@
+body {
+    background-color: red;
+}
+body div {
+    background-color: black;
+}
+#bodydivp {
+    color : white ;
+}
+img {
+    max-width: 100vh;
+    max-height: 100vw;
+}
